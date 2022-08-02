@@ -17,5 +17,8 @@ HOTEL MANAGEMENT SYSTEM BUILT USING TKINTER AND SQLITE3 DATABASE
 * sea.png          Background Image, Insert your own image and save as sea.png and resize to about 1300x860.
 * droptable.py     To reset the table execute this file.
 
+# Install Libraries
+    pip install tkinter
+    pip install pillow
 # To run this Tkinter Application 
     Run main.py
